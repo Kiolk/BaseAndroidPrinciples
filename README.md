@@ -1,4 +1,4 @@
-**Lesson - RecyclerView**<br/>
+**Lesson - RecyclerView** <br/>
 HomeTask:
  - Create application or single activity that contain  RecyclerView that represent information about 10 or more your favorite films.
  - Single film item contain information(film poster, title, date of first show, small description).
