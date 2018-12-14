@@ -1,3 +1,9 @@
+Home task
+
+Small aplication with EditText and one button. When press button text from edit text push in specific notification on phone action bar.
+
+
+
 **Lesson - SQLite**<br/>
 HomeTask:
 - Complete logic for save data in DB.
